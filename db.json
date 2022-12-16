@@ -3,29 +3,107 @@
     {
       "id": 1,
       "titre": "Riz mexicain",
-      "description": "Plat végétarien",
+      "description": "Plat vegan",
+      "ingredients": "Riz basmati \n Poivron \n Boite d'haricots rouges \n Tomates séchées \n Oignon rouge \n CAS de concentré de tomate \n Bouillon de légumes \n Epices : chili, cumin, paprika, sel, poivre",
       "recette": "1) Couper l’oignon et le poivron finement. \n 2) Faire revenir l'oignon et le poivron dans une poêle huilée pendant 5 min. \n 3) Ajouter les épices et le concentré de tomate. \n 4) Laisser mijoter quelques minutes. \n 5) Ajouter le riz, bien mélanger et laisser frire quelques minutes. \n 6) Ajouter le bouillon de légumes dilué dans 50 cl d'eau bouillante. \n 7) Couvrir et laisser cuire 10 min en remuant pour éviter que le fond brule. \n 8) Ajouter les haricots rouges et les tomates séchées coupées en morceaux. \n 9) Lorsque toute l'eau s'est évaporée, gouter le riz. S'il n'est pas cuit, rajouter un peu d'eau jusqu'à bonne cuisson.",
       "date": "Mon Nov 28 2022 14:51:42 GMT+0100 (Central European Standard Time)",
-      "snaps": 1,
+      "snaps": 4,
+      "difficulte": "Facile",
       "imageUrl": "assets/riz.jpg"
     },
     {
       "id": 2,
       "titre": "Coquillettes au four",
       "description": "Plat végétarien",
+      "ingredients": " Coquillettes \n 1 courgette \n Tomates séchées \n 1 bloc de feta  \n 1 mozzarella \n 1 bouillon légumes \n crème fraiche \n Sel, poivre, ail, herbes de provence",
       "recette": "1) Mettre les coquillettes dans un plat à gratin. \n 2) Placer la féta au centre du plat. \n 3) Couper la courgettes en dés de taille moyenne et ajouter-les dans le plat. \n 4) Couper les tomates séchées et ajouter-les dans le plat. \n 5) Couper la mozzarella en cube et ajouter-les dans le plat. \n 6) Diluer le bouillon de légumes dans de l'eau bouillante et verser la préparation dans le plat. \n 7) Ajouter 3 à 4 cuillères de crème fraiche. \n 8) Saler, poivrer, ajouter les herbes de provence et quelques gousses d'ail. \n 9) Enfourner à 180 °C pendant 10 à 15 min.",
       "imageUrl": "assets/coquillettes.jpg",
       "date": "Mon Nov 28 2022 14:51:42 GMT+0100 (Central European Standard Time)",
-      "snaps": 20
+      "snaps": 20,
+      "difficulte": "Très facile"
     },
     {
       "id": 3,
       "titre": "Pâtes pesto poulet",
-      "description": "Plat végétarien",
+      "description": "Plat avec viande",
+      "ingredients": "spaghettis \n 2 filet de poulet \n 1 oignon \n Tomates séchées \n Crème liquide \n Pesto \n Parmesan \n Sel, poivre, ail, herbes de provence",
       "recette": "1) Découper les filets de poulet en petits morceaux. \n 2) Faire mariner le poulet dans deux à trois cuillères de pesto. \n 3) Pendant ce temps, couper l'oignon en petits morceaux. \n 4) Dorer l'oignon dans une poêle huilée pendant 3 min. \n 5) Cuire les spaghettis. \n 6) Une fois l’oignon doré, ajouter le poulet, les tomates marinées et la crème liquide. \n 7) Laisser mijoter à feu doux pendant 5 min. \n 8) Ajouter les spaghettis à la préparation et bien mélanger.",
       "imageUrl": "assets/pates_pesto.jpg",
+      "difficulte": "Très facile",
       "date": "Mon Nov 28 2022 14:51:42 GMT+0100 (Central European Standard Time)",
       "snaps": 160
+    },
+    {
+      "titre": "Quesadillas",
+      "description": "Plat végétarien",
+      "ingredients": " Tortillas \n 1 boite de haricots rouges \n 1 oignon rouge \n 1 patate douce \n 1 mozzarella \n Gruyère râpé \n Crème fraiche \n Sel, poivre, ail, chili, paprika, curcuma",
+      "recette": "1) Couper la patate douce en petits cubes et l'oignon en morceaux.\n2) Faire revenir l'oignon 2 min dans une sauteuse chaude et huilée. \n3) Ajouter les cubes de patate douce, les épices et laisser cuire 5 min avant de couvrir. \n4) Mélanger de temps en temps afin d'éviter que les patates douces accrochent au fond de la sauteuse. Laisser cuire 10 à 15 min.\n5) Une fois les patates douces bien tendres, ajouter a boite de haricots rouges et laisser mijoter 5 min. \n6) A l'aide d'une cuillère en bois, écraser légèrement la préparation pour lier le tout.\n7) Prendre une tortilla et badigeonnez-la de crème fraiche. Sur la moitié de la tortillas, mettre du gruyère et 2 à 3 cuillères de la préparation. \n8) Ajouter quelques morceaux de mozzarella et fermer la tortilla. \n9) Faire revenir la tortilla 5 min de chaque coté dans un poêle chaude et huilée.",
+      "imageUrl": "assets/quesadillas.jpg",
+      "difficulte": "Facile",
+      "localisationImg": null,
+      "snaps": 0,
+      "createdDate": "2022-12-02T21:17:59.242Z",
+      "id": 4
+    },
+    {
+      "titre": "Curry de poids chiche",
+      "description": "Plat végétarien",
+      "ingredients": "1 oignon \n 1 boite de poids chiche \n 1 brique de lait de coco \n Riz \n 3 CAS de concentré de tomate \n Sel, poivre, ail, chili, paprika, curcuma, cumin, gingembre",
+      "recette": " 1) Couper l'oignon finement. \n 2) Dans une sauteuse, verser un filet d'huile d'olive et ajouter l'oignon émincé. \n 3) Laisser dorer quelques minutes. \n 4) Ajouter tous les épices, l'ail, le concentré de tomate et la brique de lait de coco. \n 5) Laisser mijoter 3 min. \n 6) Ajouter la boite de poids chiche. \n 7) Laisser mijoter 10 min à feu moyen/doux. \n 8) Servir avec du riz.",
+      "imageUrl": "assets/curry_poids_chiche.jpg",
+      "difficulte": "Très facile",
+      "localisationImg": null,
+      "snaps": 0,
+      "createdDate": "2022-12-02T21:17:59.242Z",
+      "id": 5
+    },
+    {
+      "titre": "Pâtes au poivron",
+      "description": "Plat végétarien",
+      "ingredients": "2 poivrons rouges \n 1 oignon rouge \n Pâtes \n Lait \n Pecorino \n Crème fraiche \n Sel, poivre, ail, chili, paprika",
+      "recette": " 1) Couper les poivrons en deux. Placer les moitiés de poivrons sur une plaque et enfourner pendant 20 min à 200°C. \n 2) Une fois les poivrons cuits, retirer la peau. \n 3) Mixer les poivrons marinés avec un peu de lait, 2 cuillères à soupe de crème fraiche et 100 g de pecorino. \n 4) Couper l'oignon en morceaux et faite-le revenir dans une poêle chaude et huilée pendant 5 min. \n 5) Ajouter la sauce aux poivrons. \n 6) Faire cuire les pâtes. \n 7) Une fois cuite, mélanger la préparation aux pâtes.",
+      "imageUrl": "assets/pates_poivron.jpg",
+      "difficulte": "Facile",
+      "localisationImg": null,
+      "snaps": 0,
+      "createdDate": "2022-12-02T21:17:59.242Z",
+      "id": 6
+    },
+    {
+      "titre": "Risotto d'orzo",
+      "description": "Plat végétarien",
+      "ingredients": "1 oignon \n 2 petites courgettes \n 1 bouillon de légumes \n 200 g d'orzo \n 4 CAS de pesto \n sel, poivre, ail \n 80 g de parmesan râpé",
+      "recette": " 1) Couper l'oignon finement. \n 2) Dans une sauteuse, verser un filet d'huile d'olive et ajouter l'oignon émincé et l'ail. Laisser dorer quelques minutes. \n 3) Ajouter les dés de courgettes et laisser cuire quelques minutes.Ajouter l'orzo et recouvrir de bouillon de légumes. \n 4) Couvrir et laisser cuire à feu moyen en rajoutant du bouillon lorsqu'il est complétement absorbé. \n 5) Une fois l'orzo bien tendre, ajouter le pesto et le parmesan et servir.",
+      "imageUrl": "assets/orzo.courgettes.jpg",
+      "difficulte": "Facile",
+      "localisationImg": null,
+      "snaps": 0,
+      "createdDate": "2022-12-02T21:17:59.242Z",
+      "id": 7
+    },
+    {
+      "titre": "Tacos",
+      "description": "Plat végétarien",
+      "ingredients": "1 poivron rouge \n 1 oignon \n 4 à 5 champignons \n 1 boite de poids chiche \n tortillas \nsauce soja salée \n crème fraiche \n concentré de tomate \n gruyère \n chili, paprika, curcuma, cumin, gingembre \n sel, poivre, ail",
+      "recette": "1) Couper l’oignon, le poivron et les champignons en petits morceaux. \n 2) Dans une sauteuse, verser un filet d'huile d'olive puis ajouter l'oignon et le poivron. Laisser cuire 5 min. \n 3) Ajouter les champignons, l'ail et les épices. Laisser mijoter quelques minutes. \n 4) Dans une assiette, écraser les poids chiches avec une fourchette. Puis ajouter-les dans la sauteuse avec un filet de sauce soja. \n 5) Ajouter 2 CAS de concentré de tomate. Laisser mijoter quelques minutes. \n 6) Étaler de la crème fraiche sur une tortillas. Ajouter quelques cuillères de la préparation et du gruyère. \n 7) Refermer la tortillas et faite-la dorer quelque minute de chaque côté. ",
+      "imageUrl": "assets/tacos.jpg",
+      "difficulte": "Facile",
+      "localisationImg": null,
+      "snaps": 0,
+      "createdDate": "2022-12-02T21:17:59.242Z",
+      "id": 8
+    },
+    {
+      "titre": "Gyros in a pita",
+      "description": "Plat avec viande",
+      "ingredients": "Pain pita : \n 350 g de farine \n 175 ml d'eau \n Sauce : \n yaourt \n concombre \n Garniture \n Escalope de poulet \n tomates, oignon \n gruyère \n sel, poivre, ail, herbes de Provence",
+      "recette": " 1) Pour la pâte à pita, mélanger simplement la farine et l'eau. Pétrir jusqu'à obtention d'une pâte plutôt lisse. \n 2) Ensuite, réaliser des petits boules de pâte et étaler les afin de réaliser la pita.\n 2) Pour la sauce tzatziki, râper une moitié de concombre. Ajouter 3 à 4 CAS de yaourt et assaisonner avec huile, sel, poivre, ail et herbes de Provence.  \n 3)  Couper le poulet en petits morceaux et faite-le cuire dans une poêle avec du curcuma, du chili et du paprika. \n 4) Mettre les pita à cuire dans une poêle huilée  quelques minutes de chaque côté. \n 5) Une fois cuite, étaler le tzatziki, ajouter le poulet, quelques morceaux de tomates et de concombre et une touche de gruyère.",
+      "imageUrl": "assets/giros.jpg",
+      "difficulte": "Facile",
+      "localisationImg": null,
+      "snaps": 1,
+      "createdDate": "2022-12-02T21:17:59.242Z",
+      "id": 9
     }
   ]
 }
